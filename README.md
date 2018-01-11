@@ -11,5 +11,5 @@
 <!-- Links -->
 [Jakub Korczak]: https://www.linkedin.com/in/jakub-korczak/
 
-## Author
-*Author:* [*Jakub Korczak*][Jakub Korczak]
+##
+[*Jakub Korczak*][Jakub Korczak]
