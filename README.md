@@ -1,2 +1,15 @@
-# Task-2
-Email visuals
+# About project
+> Project shows simple use of HTML and CSS.
+
+## Goals
+
+* Aim of this project is to practice building HTML email.
+
+* Mockup:
+<img alt="Final result" src="email.jpg">
+
+<!-- Links -->
+[Jakub Korczak]: https://www.linkedin.com/in/jakub-korczak/
+
+## Author
+*Author:* [*Jakub Korczak*][Jakub Korczak]
